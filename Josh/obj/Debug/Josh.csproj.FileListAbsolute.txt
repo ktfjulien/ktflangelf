@@ -1,0 +1,9 @@
+C:\Users\Joe\source\repos\Josh\bin\Debug\Josh.exe.config
+C:\Users\Joe\source\repos\Josh\bin\Debug\Josh.exe
+C:\Users\Joe\source\repos\Josh\bin\Debug\Josh.pdb
+C:\Users\Joe\source\repos\Josh\obj\Debug\Josh.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\Josh\obj\Debug\Josh.Form1.resources
+C:\Users\Joe\source\repos\Josh\obj\Debug\Josh.Properties.Resources.resources
+C:\Users\Joe\source\repos\Josh\obj\Debug\Josh.csproj.GenerateResource.cache
+C:\Users\Joe\source\repos\Josh\obj\Debug\Josh.exe
+C:\Users\Joe\source\repos\Josh\obj\Debug\Josh.pdb
